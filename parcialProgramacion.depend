@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652705251 source:c:\users\pacug\desktop\programacioni\parcialprogramacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
